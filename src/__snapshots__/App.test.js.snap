@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter /> 성공적으로 렌더링되어야 합니다. 1`] = `
+<div>
+  <div>
+    <input
+      data-testid="inputtest"
+      id="title"
+      placeholder="rendering"
+      value=""
+    />
+    <br />
+    <b />
+    <br />
+    <button
+      id="up"
+    >
+      증가
+    </button>
+    <br />
+    <b>
+      0
+    </b>
+  </div>
+</div>
+`;
